@@ -1660,7 +1660,7 @@ var emojiCodeMap = map[string]string{
 	":hear-no-evil_monkey:":                         "\U0001f649",
 	":hear_no_evil:":                                "\U0001f649",
 	":heard_mcdonald_islands:":                      "\U0001f1ed\U0001f1f2",
-	":heart:":                                       "\u2764",
+	":heart:":                                       "\U00002764",
 	":heart_decoration:":                            "\U0001f49f",
 	":heart_exclamation:":                           "\U00002763",
 	":heart_eyes:":                                  "\U0001f60d",
